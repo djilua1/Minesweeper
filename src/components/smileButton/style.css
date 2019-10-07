@@ -1,0 +1,29 @@
+.smile-button {
+  width: 1.7rem;
+  height: 1.7rem;
+  background-image: url('../../assest/smiling.svg');
+  border: 2px solid slategray;
+  outline: none;
+  background-color: transparent;
+  cursor: pointer;
+}
+
+.unsmile-button {
+  width: 1.7rem;
+  height: 1.7rem;
+  background-image: url('../../assest/unhappy.svg');
+  border: 2px solid slategray;
+  outline: none;
+  background-color: transparent;
+  cursor: pointer;
+}
+
+.victory{
+  width: 1.7rem;
+  height: 1.7rem;
+  background-image: url('../../assest/happy.svg');
+  border: 2px solid slategray;
+  outline: none;
+  background-color: transparent;
+  cursor: pointer;
+}

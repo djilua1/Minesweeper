@@ -1,0 +1,12 @@
+.defeat {
+  background-color: coral;
+  opacity: 0.5;
+  z-index: 10;
+  color: red;
+}
+
+.row {
+  position: relative;
+  display: flex;
+  height: 27px;
+}

@@ -1,0 +1,63 @@
+.cell {
+  height: 27px;
+  width: 27px;
+  text-align: center;
+  align-items: center;
+  font-family: Arial;
+  font-weight: bold;
+  font-size: 1.2rem;
+  outline: none;
+  border: 2px solid #ffffff;
+  border-bottom: 3px solid #868686;
+  border-right: 3px solid #868686;
+  background: #BDBDBD;
+}
+
+.open {
+  background-color: #ccc;
+  border: 1px solid #aaa;
+}
+
+.bomb {
+  background-image: url('../../assest/bomb.svg');
+}
+
+.mark {
+  background-image: url('../../assest/facebook-placeholder-for-locate-places-on-maps.svg');
+}
+
+.count-bombs-0 {
+  color: #ccc;
+}
+
+.count-bombs-1 {
+  color: #021AFF;
+}
+
+.count-bombs-2 {
+  color: #1D7B00;
+}
+
+.count-bombs-3 {
+  color: #F2151D;
+}
+
+.count-bombs-4 {
+  color: #00077B;
+}
+
+.count-bombs-5 {
+  color: black;
+}
+
+.count-bombs-6 {
+  color: black;
+}
+
+.count-bombs-7 {
+  color: black;
+}
+
+.count-bombs-8 {
+  color: black;
+}

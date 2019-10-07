@@ -1,0 +1,10 @@
+.main-form {
+    background: silver;
+    border: 2px solid slategray;
+}
+
+.success {
+    color: yellow;
+    font-size: 2rem;
+    text-align: center;
+}
